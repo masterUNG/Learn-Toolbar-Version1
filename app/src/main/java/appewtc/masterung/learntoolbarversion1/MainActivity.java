@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setSubtitle(R.string.sub_title);
 
         //Set Icon
-        //getSupportActionBar().setIcon();
+        getSupportActionBar().setIcon(R.drawable.ic_toolbar);
 
 
     }   // Main Method
